@@ -12,7 +12,7 @@ import americano from './assets/images/americano.png'
 import cappuccino from './assets/images/cappuccino.png'
 import tiramisu from './assets/images/tiramisu.jpg'
 import Card from './Card'
-import React, {useEffect, useState} from 'react'
+import {useEffect, useState} from 'react'
 import { Outlet, Link } from "react-router-dom";
 
 function Menu() {
