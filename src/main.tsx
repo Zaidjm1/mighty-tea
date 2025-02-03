@@ -10,7 +10,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/mighty-tea/">
       <Routes>
 
           <Route index element={<Content/>}/>
