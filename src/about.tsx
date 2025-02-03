@@ -22,7 +22,7 @@ function About() {
         <div className="">
           <img className="m-auto mt-20 h-[400px] w-auto" src={ts} />
           <p className="text-center mb-10 mt-6 text-[30px] font-pacifico">The Beginning</p>
-          <div className="text-justify mb-10 mx-10">
+          <div className="text-justify mb-10 mx-10 md:mx-[400px]">
             <p className="mb-4">Lorem ipsum odor amet, consectetuer adipiscing elit. Libero amet nostra mollis sapien taciti lobortis. Eros vehicula lacus massa dis; tristique viverra. Quisque potenti luctus quam luctus arcu bibendum rutrum imperdiet. Primis nullam libero donec viverra; torquent ad. Gravida vestibulum nisl; rhoncus facilisi sit accumsan. Nulla eleifend condimentum maximus odio eleifend quam. Mattis pellentesque risus suscipit volutpat curabitur dapibus.</p>
             <p className="mb-4">Lorem ipsum odor amet, consectetuer adipiscing elit. Libero amet nostra mollis sapien taciti lobortis. Eros vehicula lacus massa dis; tristique viverra. Quisque potenti luctus quam luctus arcu bibendum rutrum imperdiet. Primis nullam libero donec viverra; torquent ad. Gravida vestibulum nisl; rhoncus facilisi sit accumsan. Nulla eleifend condimentum maximus odio eleifend quam. Mattis pellentesque risus suscipit volutpat curabitur dapibus.</p>
             <p className="mb-4">Lorem ipsum odor amet, consectetuer adipiscing elit. Libero amet nostra mollis sapien taciti lobortis. Eros vehicula lacus massa dis; tristique viverra. Quisque potenti luctus quam luctus arcu bibendum rutrum imperdiet. Primis nullam libero donec viverra; torquent ad. Gravida vestibulum nisl; rhoncus facilisi sit accumsan. Nulla eleifend condimentum maximus odio eleifend quam. Mattis pellentesque risus suscipit volutpat curabitur dapibus.</p>
