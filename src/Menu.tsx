@@ -95,7 +95,7 @@ function Menu() {
           <p className='text-center p-6 bg-blue-900 text-white font-pacifico text-[20px]'>Shake Mighty Tea</p>
           <div className='flex justify-center mt-10 mb-10 gap-20 '>
           </div>
-            <div className='flex justify-center gap-20'>
+            <div className='flex justify-center gap-20 delay-[300ms] duration-[600ms] taos:translate-x-[100%] taos:opacity-0" data-taos-offset="400"'>
               <Card
               img={taro}
               name="Mighty Tea Purple (Taro)" />
@@ -109,7 +109,7 @@ function Menu() {
               img={matcha}
               name="Mighty Tea Green (Matcha)" />
             </div>
-            <div className='flex justify-center gap-20'>
+            <div className='flex justify-center gap-20 delay-[300ms] duration-[600ms] taos:translate-x-[100%] taos:opacity-0" data-taos-offset="400"'>
               <Card
               img={orange}
               name="Mighty Tea Orange" />
@@ -128,7 +128,7 @@ function Menu() {
           <p className='text-center p-6 bg-blue-900 text-white font-pacifico text-[20px]'>Coffee</p>
           <div className='flex justify-center mt-10 mb-10 gap-20 '>
           </div>
-            <div className='flex justify-center gap-20'>
+            <div className='flex justify-center gap-20 delay-[300ms] duration-[600ms] taos:translate-x-[100%] taos:opacity-0" data-taos-offset="400"'>
               <Card
               img={cappuccino}
               name="Mighty Tea Brown (Choco)" />
@@ -147,7 +147,7 @@ function Menu() {
           <p className='text-center p-6 bg-blue-900 text-white font-pacifico text-[20px]'>Dessert</p>
           <div className='flex justify-center mt-10 mb-10 gap-20 '>
           </div>
-            <div className='flex justify-center gap-20'>
+            <div className='flex justify-center gap-20 delay-[300ms] duration-[600ms] taos:translate-x-[100%] taos:opacity-0" data-taos-offset="400"'>
               <Card
               img={tiramisu}
               name="Mighty Tea Tira-miss-u (Tiramisu)" />

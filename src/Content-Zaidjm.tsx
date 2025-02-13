@@ -21,12 +21,12 @@ function Content() {
         </div>
       </div>
       <Outlet />
-         <div className="w-[80%] h-[80vh] flex m-auto gap-10">
+         <div className="group w-[80%] h-[80vh] flex m-auto gap-10">
             <div className="h-[100vh] w-[100%] md:h-[60vh] md:w-[30%] bg-white ml-auto mt-auto mb-auto flex items-center justify-center">
-                <img src={matcha} className='h-auto w-auto mt-20 delay-[300ms] duration-[600ms] taos:scale-[0.6] taos:opacity-0" data-taos-offset="400' />
+                <img src={matcha} className='h-auto w-auto mt-20 delay-[300ms] duration-[600ms] taos:translate-y-[100%] taos:opacity-0" data-taos-offset="300' />
             </div>
             <div className="h-[100vh] w-[100%] md:h-[60vh] md:w-[30%] bg-white mr-auto mt-auto mb-auto flex items-center justify-center">
-                <img src={tiramisu} className='h-auto w-auto delay-[300ms] duration-[600ms] taos:scale-[0.6] taos:opacity-0" data-taos-offset="400' />
+                <img src={tiramisu} className='h-auto w-auto delay-[300ms] duration-[600ms] taos:translate-y-[100%] taos:opacity-0" data-taos-offset="300' />
             </div>
         </div>
         <div className="font-dm h-[100px] w-full flex items-center justify-center">
